@@ -1,1 +1,3 @@
-# Snakebite for ATmega128
+#Snakebite_AVR
+
+Snakebite for ATmega128.
